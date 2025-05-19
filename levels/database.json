@@ -3,7 +3,6 @@
     {
       "name": "Bloodbath",
       "author": "Riot",
-      "level_id": 69420,
       "percentage": 56.54,
       "difficulty": 0,
       "download_filename": "Bloodbath_1.png"
@@ -11,7 +10,6 @@
     {
       "name": "Change Of Scene",
       "author": "Bli",
-      "level_id": 69420,
       "percentage": 11.56,
       "difficulty": 1,
       "download_filename": "Change_Of_Scene_1.png"
@@ -19,7 +17,6 @@
     {
       "name": "Change Of Scene",
       "author": "Bli",
-      "level_id": 69420,
       "percentage": 72.61,
       "difficulty": 2,
       "download_filename": "Change_Of_Scene_2.png"
@@ -27,7 +24,6 @@
     {
       "name": "Retray",
       "author": "DiMaViKuLov26",
-      "level_id": 69420,
       "percentage": 82.17,
       "difficulty": 2,
       "download_filename": "Retray_1.png"
